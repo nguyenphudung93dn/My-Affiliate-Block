@@ -6,6 +6,8 @@ Stable tag:        0.1.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
+Xem Hướng Dẫn tại https://nguyenphudung.com/thu-thuat-wp-huong-dan-tao-gutenberg-block-plugin-trong-wordpress
+
 Example block written with ESNext standard and JSX support – build step required.
 
 == Description ==
@@ -54,4 +56,3 @@ You may provide arbitrary sections, in the same format as the ones above. This m
 plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
 "installation." Arbitrary sections will be shown below the built-in sections outlined above.
 
-Xem Hướng Dẫn tại https://nguyenphudung.com/thu-thuat-wp-huong-dan-tao-gutenberg-block-plugin-trong-wordpress
